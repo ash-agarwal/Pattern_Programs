@@ -1,0 +1,18 @@
+Python Programs to print following Pattern Questions:
+
+Pattern1 :
+
+	*
+	**
+	* *
+	*  *
+	*****
+
+Pattern 2: 
+
+	     *
+	    **
+	   ***
+	  ****
+	 *****
+	******
